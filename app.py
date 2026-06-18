@@ -17,7 +17,7 @@ st.write(
 age = st.number_input(
     "Age",
     min_value=10,
-    max_value=60,
+    max_value=70,
     value=25
 )
 
